@@ -4,9 +4,9 @@
 	- Download & install XAMPP or else.
 	- Execute the query (create the db).
 	
-## 2. Open terminal (third):
+## 2. Open terminal:
 	- npm install
-	- gulp
+	- npm start
 	
 ## 3. Run - http://localhost:3000/api/
 	- GET: /users
